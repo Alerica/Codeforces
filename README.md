@@ -1,2 +1,2 @@
 # Codeforces
-Here`s my attempt at solving the codeforces problem set or codeforces  contest.
+Here`s my attempt at solving the codeforces problemset or codeforces  contest.
