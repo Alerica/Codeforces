@@ -9,6 +9,3 @@ Programming Language used:
 - C
 - C#
 - Java
-- Python
-- 
-
